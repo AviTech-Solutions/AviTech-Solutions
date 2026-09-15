@@ -314,7 +314,7 @@
 
 footer {
     margin-top: 60px;
-    background: var(--ink);
+    background: teal;
     color: rgba(255, 255, 255, 0.75);
 }
 
