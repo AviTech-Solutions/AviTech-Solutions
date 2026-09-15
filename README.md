@@ -48,9 +48,6 @@ It allows users to:
   - Urgency level
   - Support type selection
 
-### 📧 Email Integration
-- EmailJS integration for instant booking notifications
-
 ### 📊 Google Sheets Integration
 - Automatically stores appointment data in Google Sheets
 - Real-time tracking of client requests
@@ -73,19 +70,6 @@ It allows users to:
 | Google Apps Script | Appointment storage |
 | Google Sheets | Data tracking |
 
----
-
-## 📂 Project Structure
-
-```text
-AviTech-Solutions-main/
-├── assets/                          # Images, logos, branding assets
-├── index.html                       # Main landing page
-├── styles.css                       # UI styling & responsiveness
-├── script.js                       # Navigation & UI logic
-├── email.js                        # EmailJS integration
-├── google-sheets-app-script.gs     # Google Sheets backend script
-└── README.md
 ```
 📅 Appointment System Setup
 
@@ -107,8 +91,8 @@ XCode - AviTech Solutions
 
 📍 Kampala, Uganda
 📧 Email: xcodeprogrammer@hotmail.com
-🌐 Portfolio: https://xcode-avitech.github.io/xcode-programmer
-🐙 GitHub: https://github.com/XCode-AviTech
+🌐 Portfolio: https://portfolio.avitechsolutions.site
+🐙 GitHub: https://github.com/AviTech-Solutions 
 
 ⚠️ Disclaimer
 
@@ -117,4 +101,4 @@ All content, branding, and services represent a real IT services brand.
 
 ⭐ Support
 
-If you like this project, feel free to star ⭐ the repository or share it with others.
+If you like this project, feel free to star ⭐ the repository, share it with others or visit the website to scan and donate using paypal.
