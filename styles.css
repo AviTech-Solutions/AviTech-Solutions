@@ -3704,7 +3704,7 @@ footer::after {
     position: fixed;
 
     right: 0;
-    bottom: 20px;
+    bottom: 0;
     left: 0;
 
     z-index: 1100;
@@ -3948,6 +3948,10 @@ footer::after {
     .floating-whatsapp {
         bottom: 82px;
     }
+
+.footer-bottom-links {
+    padding-bottom:20px;
+}
 
     .mobile-contact-bar {
         display: flex;
