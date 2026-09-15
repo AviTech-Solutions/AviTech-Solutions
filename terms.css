@@ -318,6 +318,11 @@ footer {
     color: rgba(255, 255, 255, 0.75);
 }
 
+.dev{
+    color: gray;
+    font-weight: bold;
+}
+
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
